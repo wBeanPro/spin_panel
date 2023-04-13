@@ -1,0 +1,264 @@
+body {
+    text-align: center;
+}
+button {
+    margin-top: 20px;
+}
+[_nghost-rbj-c443] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background: #555;
+}
+.wheel-container[_ngcontent-rbj-c443] {
+    position: relative;
+    overflow: hidden;
+}
+@media (max-width: 991.98px){
+    .wheel-container[_ngcontent-rbj-c443] {
+        height: 250px;
+        padding-top: 3.5rem;
+    }
+    .wheel[_ngcontent-rbj-c443] {
+        width: 825px;
+        height: 825px;
+    }
+    .slot[_ngcontent-rbj-c443] {
+        width: 165px;
+        height: 165px;
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(1) {
+        transform: rotate(-90deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(2) {
+        transform: rotate(-108deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(3) {
+        transform: rotate(-126deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(4) {
+        transform: rotate(-144deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(5) {
+        transform: rotate(-162deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(6) {
+        transform: rotate(-180deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(7) {
+        transform: rotate(-198deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(8) {
+        transform: rotate(-216deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(9) {
+        transform: rotate(-234deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(10) {
+        transform: rotate(-252deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(11) {
+        transform: rotate(-270deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(12) {
+        transform: rotate(-288deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(13) {
+        transform: rotate(-306deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(14) {
+        transform: rotate(-324deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(15) {
+        transform: rotate(-342deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(16) {
+        transform: rotate(-360deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(17) {
+        transform: rotate(-378deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(18) {
+        transform: rotate(-396deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(19) {
+        transform: rotate(-414deg) translate3d(330px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(20) {
+        transform: rotate(-432deg) translate3d(330px,0,0) rotate(90deg);
+    }
+}
+@media (min-width: 768px) {
+    .wheel-container[_ngcontent-rbj-c443] {
+        height: 310px;
+        padding-top: 2.25rem;
+    }
+    .wheel[_ngcontent-rbj-c443] {
+        width: 1100px;
+        height: 1100px;
+    }
+    .slot[_ngcontent-rbj-c443] {
+        width: 220px;
+        height: 220px;
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(1) {
+        transform: rotate(-90deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(2) {
+        transform: rotate(-108deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(3) {
+        transform: rotate(-126deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(4) {
+        transform: rotate(-144deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(5) {
+        transform: rotate(-162deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(6) {
+        transform: rotate(-180deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(7) {
+        transform: rotate(-198deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(8) {
+        transform: rotate(-216deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(9) {
+        transform: rotate(-234deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(10) {
+        transform: rotate(-252deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(11) {
+        transform: rotate(-270deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(12) {
+        transform: rotate(-288deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(13) {
+        transform: rotate(-306deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(14) {
+        transform: rotate(-324deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(15) {
+        transform: rotate(-342deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(16) {
+        transform: rotate(-360deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(17) {
+        transform: rotate(-378deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(18) {
+        transform: rotate(-396deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(19) {
+        transform: rotate(-414deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .slot[_ngcontent-rbj-c443]:nth-of-type(20) {
+        transform: rotate(-432deg) translate3d(440px,0,0) rotate(90deg);
+    }
+    .img-container[_ngcontent-rbj-c442] {
+        width: 70%;
+        height: 52%;
+    }
+}
+.wheel[_ngcontent-rbj-c443] {
+    position: relative;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.slotContainer[_ngcontent-rbj-c443] {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.slot[_ngcontent-rbj-c443] {
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    color: var(--box-item-view-button-bg);
+    text-align: center;
+}
+[_nghost-rbj-c442] {
+    display: block;
+    height: 100%;
+    position: relative;
+}
+.slot-bg[_ngcontent-rbj-c442] {
+    width: 100%;
+    height: 100%;
+}
+cw-icon {
+    display: inline-block;
+    width: 1.2em;
+    line-height: 0;
+    vertical-align: text-bottom;
+}
+.text-soft-common {
+    color: var(--rarity-soft-common);
+}
+.slot-container[_ngcontent-rbj-c442] {
+    position: absolute;
+    inset: 0 18%;
+}
+cw-icon svg {
+    width: inherit;
+    height: inherit;
+}
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+svg:not(:root) {
+    overflow-clip-margin: content-box;
+    overflow: hidden;
+}
+.rarity-icon[_ngcontent-rbj-c442] {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+.img-container[_ngcontent-rbj-c442] {
+    width: 60%;
+    height: 40%;
+    margin: 0.5rem auto 0;
+    position: relative;
+}
+.img-container[_ngcontent-rbj-c442] img[_ngcontent-rbj-c442] {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+.img-container[_ngcontent-rbj-c442] .view-icon[_ngcontent-rbj-c442] {
+    cursor: pointer;
+    visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+    width: 3rem;
+    height: 3rem;
+    position: absolute;
+    inset: 0;
+    margin: auto;
+}
+.img-container[_ngcontent-rbj-c442] .view-icon[_ngcontent-rbj-c442] cw-icon[_ngcontent-rbj-c442] {
+    transition: .2s transform;
+}
+.text-common {
+    color: #8e8e99;
+}
+cw-icon[_ngcontent-rbj-c355] {
+    width: 1em;
+}
